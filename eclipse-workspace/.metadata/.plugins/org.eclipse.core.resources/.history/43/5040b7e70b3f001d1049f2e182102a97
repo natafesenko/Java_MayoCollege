@@ -1,0 +1,13 @@
+
+public class UserInputExercise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int age;
+		String fullName;
+		Scanner in = new Scanner(System.in);
+		fullName = in.nextLine();
+		System.out.println("Hello " + fullName);
+	}
+
+}

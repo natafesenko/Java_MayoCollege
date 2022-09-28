@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class UserInputExercise2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String firstName;
+		String bffFirtsName;
+		
+		Scanner in = new Scanner (System.in);
+		
+		System.out.println("Please enter your first name");
+		firstName = in.nextLine();
+		System.out.println("Your Scooby Doo name is "+firtsName+"y");
+
+	}
+
+}
