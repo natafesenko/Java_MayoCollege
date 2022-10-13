@@ -1,5 +1,1 @@
-# Java HomeWork
-
-1. Hello_Universe;
-2. YouAreWonderful;
-3. 
+# Java HomeWork<details><summary> Introductoin Exersises to Eclips </summary>1. Hello_Universe;2. AreYouWonderful;3. AddingUp4. AverageAges5. AverageAgesAgain6. Multiplication17. Multiplication28. Division19. Division10. Multiplication3</details>
