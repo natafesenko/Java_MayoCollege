@@ -12,7 +12,7 @@ public class Name_EmployeeDetails {
 		
 		String fullName = (firstName + " " + middleIninital + " " + lastName);
 
-		final String ppsNo = "5435989WA";
+		final String ppsNo = "51212WA";
 
 		byte age = 37;
 

@@ -15,7 +15,7 @@ public class Rectangle {
 		System.out.println("What legth in a Regtangle?");
 		length = in.nextInt();
 		
-		
+		System.out.println("Area of Regtangle is " + width*length);
 		
 
 	}
