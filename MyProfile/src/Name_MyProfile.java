@@ -12,7 +12,7 @@ public class Name_MyProfile {
 		
 		String fullName = (firstName + " " + middleIninital + " " + lastName);
 
-		byte age = 37;
+		byte age = 38;
 
 		String occupation = "Student";
 
